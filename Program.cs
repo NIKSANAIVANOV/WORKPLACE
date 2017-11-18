@@ -1,24 +1,20 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-class Program
+namespace Задача1
 {
-    public static void Main(string[] args)
+    class Program
     {
-        int n = int.Parse(Console.ReadLine());
-
-        for (int row = 0; row < n; row++)
+        static void Main(string[] args)
         {
-            for (int col = 0; col < n; col++)
+            var n = int.Parse(Console.ReadLine());
+            for (var i =1; i <=n;i+= 3)
             {
-                int num = row + col + 1;
-
-                if (num > n)
-                {
-                    num = 2 * n - num;
-                }
-                Console.Write(num + " ");
+                Console.WriteLine(i);
             }
-            Console.WriteLine();
         }
     }
 }
