@@ -1,24 +1,21 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Windows.Forms;
 
-class Program
+namespace Packman_Game
 {
-    public static void Main(string[] args)
+    static class Program
     {
-        int n = int.Parse(Console.ReadLine());
-
-        for (int row = 0; row < n; row++)
+        /// <summary>
+        /// The main entry point for the application.
+        /// </summary>
+        [STAThread]
+        static void Main()
         {
-            for (int col = 0; col < n; col++)
-            {
-                int num = row + col + 1;
-
-                if (num > n)
-                {
-                    num = 2 * n - num;
-                }
-                Console.Write(num + " ");
-            }
-            Console.WriteLine();
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
         }
     }
 }

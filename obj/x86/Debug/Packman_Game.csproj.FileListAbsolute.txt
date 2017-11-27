@@ -1,0 +1,9 @@
+c:\users\mr.fard\documents\visual studio 2010\Projects\Packman_Game\Packman_Game\bin\Debug\Packman_Game.exe
+c:\users\mr.fard\documents\visual studio 2010\Projects\Packman_Game\Packman_Game\bin\Debug\Packman_Game.pdb
+c:\users\mr.fard\documents\visual studio 2010\Projects\Packman_Game\Packman_Game\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mr.fard\documents\visual studio 2010\Projects\Packman_Game\Packman_Game\obj\x86\Debug\Packman_Game.Form1.resources
+c:\users\mr.fard\documents\visual studio 2010\Projects\Packman_Game\Packman_Game\obj\x86\Debug\Packman_Game.Properties.Resources.resources
+c:\users\mr.fard\documents\visual studio 2010\Projects\Packman_Game\Packman_Game\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mr.fard\documents\visual studio 2010\Projects\Packman_Game\Packman_Game\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mr.fard\documents\visual studio 2010\Projects\Packman_Game\Packman_Game\obj\x86\Debug\Packman_Game.exe
+c:\users\mr.fard\documents\visual studio 2010\Projects\Packman_Game\Packman_Game\obj\x86\Debug\Packman_Game.pdb
