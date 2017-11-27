@@ -1,0 +1,21 @@
+C:\Users\fmi\Desktop\New folder\asp-template\MC.Website\MC.Data\obj\Debug\MC.Data.csprojResolveAssemblyReference.cache
+C:\Users\fmi\Desktop\New folder\asp-template\MC.Website\MC.Data\bin\Debug\MC.Data.dll.config
+C:\Users\fmi\Desktop\New folder\asp-template\MC.Website\MC.Data\bin\Debug\MC.Data.dll
+C:\Users\fmi\Desktop\New folder\asp-template\MC.Website\MC.Data\bin\Debug\MC.Data.pdb
+C:\Users\fmi\Desktop\New folder\asp-template\MC.Website\MC.Data\bin\Debug\EntityFramework.dll
+C:\Users\fmi\Desktop\New folder\asp-template\MC.Website\MC.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fmi\Desktop\New folder\asp-template\MC.Website\MC.Data\bin\Debug\EntityFramework.xml
+C:\Users\fmi\Desktop\New folder\asp-template\MC.Website\MC.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fmi\Desktop\New folder\asp-template\MC.Website\MC.Data\obj\Debug\MC.Data.dll
+C:\Users\fmi\Desktop\New folder\asp-template\MC.Website\MC.Data\obj\Debug\MC.Data.pdb
+D:\UNI\MC.Website\MC.Data\bin\Debug\MC.Data.dll.config
+D:\UNI\MC.Website\MC.Data\bin\Debug\MC.Data.dll
+D:\UNI\MC.Website\MC.Data\bin\Debug\MC.Data.pdb
+D:\UNI\MC.Website\MC.Data\bin\Debug\EntityFramework.dll
+D:\UNI\MC.Website\MC.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\UNI\MC.Website\MC.Data\bin\Debug\EntityFramework.xml
+D:\UNI\MC.Website\MC.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\UNI\MC.Website\MC.Data\obj\Debug\MC.Data.csprojResolveAssemblyReference.cache
+D:\UNI\MC.Website\MC.Data\obj\Debug\MC.Data.csproj.CoreCompileInputs.cache
+D:\UNI\MC.Website\MC.Data\obj\Debug\MC.Data.dll
+D:\UNI\MC.Website\MC.Data\obj\Debug\MC.Data.pdb
