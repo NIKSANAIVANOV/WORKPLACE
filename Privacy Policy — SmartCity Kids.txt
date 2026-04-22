@@ -1,0 +1,45 @@
+Last updated: 21 Apr 2026
+SmartCity Kids is designed to help children and parents make safer everyday decisions.
+We take privacy seriously and keep data usage to an absolute minimum.
+📌 Data We Collect
+
+Microphone input – used only when the user presses the “🎤 Speak” button.
+No audio is recorded, stored, or transmitted.
+Voice processing happens locally on the device.
+
+🚫 Data We Do NOT Collect
+
+No personal identifiers
+No names, emails, phone numbers
+No location data
+No accounts or logins
+No advertising IDs
+No analytics tied to a child
+
+🧠 How Data Is Used
+
+Voice input is converted to text locally.
+The text is used to generate an on‑device response.
+Nothing is sent to servers.
+
+🗂 Data Storage
+
+The app stores non‑personal settings only, such as:
+
+earned badges
+confidence values
+
+
+This data is stored locally on the device using Android DataStore.
+
+👨‍👩‍👧 Children’s Privacy
+
+The app is designed for children.
+No personal data is collected.
+No data is shared with third parties.
+Parental controls are provided.
+
+🔐 Permissions
+
+Microphone: Required only for voice interaction.
+The app remains usable without granting microphone access.
